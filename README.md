@@ -1,2 +1,2 @@
-# Virtual-Self_Driving_car.py
- In this project we use python and its libraries
+# Virtual-Self_Driving_car
+ In this project I create virtual self driving car using python and pygame
