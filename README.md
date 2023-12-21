@@ -1,2 +1,1 @@
-# Virtual-Self_Driving_car
- In this project I create virtual self driving car using python and pygame
+This project is a simple implementation of a car driving on a track using the Pygame library in Python. The program displays a window with a track image and a car image. This project demonstrates a basic implementation of pixel-based movement and primitive computer vision using Pygame.
